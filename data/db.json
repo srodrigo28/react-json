@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Notebook 1",
+      "qtd": 10,
+      "valor": 200
+    },
+    {
+      "id": 2,
+      "nome": "Notebook 2",
+      "qtd": 5,
+      "valor": 300
+    },
+    {
+      "nome": "SEBASTIAO",
+      "valor": "10",
+      "quantidade": "1",
+      "id": 3
+    },
+    {
+      "nome": "Xavier",
+      "valor": "2000",
+      "qtd": "2",
+      "id": 4
+    },
+    {
+      "nome": "maria",
+      "valor": "1500",
+      "qtd": "3",
+      "id": 5
+    },
+    {
+      "nome": "pc novo",
+      "valor": "10000",
+      "qtd": "2",
+      "id": 6
+    }
+  ]
+}
